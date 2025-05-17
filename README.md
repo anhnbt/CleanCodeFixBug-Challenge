@@ -33,6 +33,7 @@
 ### Tài liệu chi tiết cuộc thi
 Để hiểu rõ hơn về cuộc thi, vui lòng tham khảo các tài liệu sau:
 - **Kiến thức nền tảng:** [Hướng dẫn nhận diện Mã bẩn & Nguyên tắc Clean Code](./kien_thuc_ve_clean_code_va_ma_ban.md)
+- **Nộp bài**: [https://docs.google.com/forms/d/e/1FAIpQLSdCMR65ERe93mvOntFn3dR_Ggne8P_5ZCGzqFKSsf8m1Qjl3Q/viewform?usp=header](https://docs.google.com/forms/d/e/1FAIpQLSdCMR65ERe93mvOntFn3dR_Ggne8P_5ZCGzqFKSsf8m1Qjl3Q/viewform?usp=header)
 
 ### Quy chế
 #### Quy định chung
