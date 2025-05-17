@@ -39,8 +39,12 @@
 #### Quy định chung
 - Mỗi nhóm có 3-4 thành viên (tuỳ số lượng học viên).
 - Tuân thủ nghiêm ngặt thời gian làm bài và nộp bài.
-- Không trao đổi với các nhóm khác trong quá trình làm bài.
-- Có thể sử dụng tài nguyên internet để tham khảo nhưng không copy hoàn toàn.
+- KHÔNG trao đổi với các nhóm khác trong quá trình làm bài.
+- KHÔNG được sử dụng bất kỳ công cụ AI nào như ChatGPT, GitHub Copilot.
+- Bài nộp phải thể hiện năng lực thực sự của nhóm, không dùng công cụ gợi ý hoặc sinh code.
+- **Xử lý vi phạm**:
+  - Nếu phát hiện vi phạm quy định, bài thi sẽ bị loại hoặc đánh giá 0 điểm.
+  - Trong trường hợp nghi ngờ, giảng viên có quyền yêu cầu trình bày lại bài thi.
 
 #### Quy định nộp bài
 - **Thời gian:** Các bạn có 5 phút để hoàn tất việc nộp bài lên GitHub.
